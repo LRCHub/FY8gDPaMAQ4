@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "FUNNY GOLD",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-12T06:13:34.636918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FUNNY GOLD",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/01_FUNNY_GOLD_Suchmos.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Funny Gold",
+      "artist": "Suchmos",
+      "has_synced": true,
+      "path": "select/02_Funny_Gold_Suchmos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FUNNY GOLD",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_FUNNY_GOLD_Suchmos.txt"
+    }
+  ]
+}
